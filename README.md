@@ -5,4 +5,4 @@
 1. Donald E. Knuth, _[The TeXbook](http://www-cs-faculty.stanford.edu/~knuth/abcde.html#texbk)_, Addison-Wesley, 1984.
 1. [CTeX](http://www.ctex.org/).
 1. Paul Abrahams, Kathryn Hargreaves, Karl Berry, _[TeX for the Impatient](https://www.gnu.org/software/teximpatient/)_.
-1. [XeTeX](http://tug.org/xetex/).
+1. [XeTeX](http://tug.org/xetex/) and it's [wiki](https://en.wikipedia.org/wiki/XeTeX).
