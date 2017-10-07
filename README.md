@@ -6,4 +6,4 @@
 1. Paul Abrahams, Kathryn Hargreaves, Karl Berry, _[TeX for the Impatient](https://www.gnu.org/software/teximpatient/)_.
 1. Werner Lemberg, [CJK](https://cjk.ffii.org/).
 1. [XeTeX](http://tug.org/xetex/) and it's [wiki](https://en.wikipedia.org/wiki/XeTeX).
-1. [CTeX](http://www.ctex.org/) and [xeCJK](https://ctan.org/pkg/xecjk).
+1. [xeCJK](https://ctan.org/pkg/xecjk) from [CTeX](http://www.ctex.org/).
